@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pasima pavan kumar
 - 👀 I’m interested in ..Ui Development.
-- 🌱 I’m currently learning React js
+- 🌱 I’m  React js Developer..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/pavankumar709
 - Phone :8247075639
