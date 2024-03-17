@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pasima pavan kumar
 - 👀 I’m interested in ..Ui Development.
-- 🌱 I’m  React js Developer,Flutter Developer..
+- 🌱 I’m  React js Developer,UX Designer..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/pavankumar709
 - Phone :8247075639
